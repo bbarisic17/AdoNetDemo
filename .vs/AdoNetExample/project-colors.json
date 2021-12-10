@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "686a72de-6154-49a8-9632-7ba3dfcbbfb1": {
+      "ProjectGuid": "686a72de-6154-49a8-9632-7ba3dfcbbfb1",
+      "DisplayName": "AdoNetExample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
